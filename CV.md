@@ -1,6 +1,8 @@
+<img src="https://github.com/Mr-Maglor/Ecole/blob/main/1.png" width="100" height="100">
 # CV Bruno SERNA
 
-_Anciennement ingénieur en automatisme avec quinze ans d'expérience, actuellement en reconvertion professionnel pour de devenir adminstrateur d'infrastructures sécurisées._
+
+_Anciennemet ingénieur en automatisme avec quinze ans d'expérience, actuellement en reconvertion professionnel pour de devenir adminstrateur d'infrastructures sécurisées._
 
 ## Formation
 - 2008
