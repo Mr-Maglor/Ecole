@@ -2,7 +2,7 @@
 
 # CV Bruno SERNA
 
-_Anciennemet ingénieur en automatisme avec quinze ans d'expérience, actuellement en reconvertion professionnel pour de devenir adminstrateur d'infrastructures sécurisées._
+_Anciennemet ingénieur en automatisme avec quinze ans d'expérience, actuellement en reconvertion professionnel pour de devenir administrateur d'infrastructures sécurisées._
 
 ## Formation
 - 2008
