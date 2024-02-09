@@ -1,4 +1,4 @@
-<img src="https://github.com/Mr-Maglor/Ecole/blob/main/1.png" width="100" height="100">
+<img src="https://i.ibb.co/Nnvh6bQ/1.png" width="150" height="150">
 
 # CV Bruno SERNA
 
