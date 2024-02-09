@@ -47,5 +47,6 @@ Automaticien - [**Energence, Brignais**](https://energence.eu/)
 - Cinéma
 - Jeux Vidéo
 - Sports
+  
 [Tinea]: https://www.equans.fr/nos-solutions/batiment/solutions-numeriques/automation?page=7
 [Clauger]: https://www.clauger.com/fr/
